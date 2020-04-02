@@ -5,5 +5,5 @@ this is a simple readme file
 test
 test
 test
-this is never goign to work, hopefully nto a problem
+this is going to cause a conflict
 lets do this
